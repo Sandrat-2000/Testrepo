@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-09T19:52:40 IST" name="Default suite" finished-at="2024-06-09T19:53:14 IST" duration-ms="33364">
+    <groups>
+    </groups>
+    <test started-at="2024-06-09T19:52:40 IST" name="Default test" finished-at="2024-06-09T19:53:14 IST" duration-ms="33364">
+      <class name="janasyapkg.Janasyacls">
+        <test-method is-config="true" signature="set()[pri:0, instance:janasyapkg.Janasyacls@6f1de4c7]" started-at="2024-06-09T19:52:40 IST" name="set" finished-at="2024-06-09T19:52:49 IST" duration-ms="8803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method signature="test()[pri:0, instance:janasyapkg.Janasyacls@6f1de4c7]" started-at="2024-06-09T19:52:49 IST" name="test" finished-at="2024-06-09T19:52:53 IST" duration-ms="4050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test1()[pri:0, instance:janasyapkg.Janasyacls@6f1de4c7]" started-at="2024-06-09T19:52:53 IST" name="test1" finished-at="2024-06-09T19:53:03 IST" duration-ms="9328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:janasyapkg.Janasyacls@6f1de4c7]" started-at="2024-06-09T19:53:03 IST" name="test2" finished-at="2024-06-09T19:53:11 IST" duration-ms="8713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:janasyapkg.Janasyacls@6f1de4c7]" started-at="2024-06-09T19:53:11 IST" name="test3" finished-at="2024-06-09T19:53:14 IST" duration-ms="2375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- janasyapkg.Janasyacls -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
